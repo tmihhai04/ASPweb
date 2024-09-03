@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bnguy\\Downloads\\ASPWeb\\BaiTap3\\",
+  "WorkspaceRootPath": "D:\\GitHub\\ASPweb\\BaiTap3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98BA06E7-6928-4959-B672-20E6C0DCE4A3}|BaiTap3\\BaiTap3.csproj|c:\\users\\bnguy\\downloads\\aspweb\\baitap3\\baitap3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{98BA06E7-6928-4959-B672-20E6C0DCE4A3}|BaiTap3\\BaiTap3.csproj|d:\\github\\aspweb\\baitap3\\baitap3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{98BA06E7-6928-4959-B672-20E6C0DCE4A3}|BaiTap3\\BaiTap3.csproj|solutionrelative:baitap3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98BA06E7-6928-4959-B672-20E6C0DCE4A3}|BaiTap3\\BaiTap3.csproj|c:\\users\\bnguy\\downloads\\aspweb\\baitap3\\baitap3\\views\\nhom\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{98BA06E7-6928-4959-B672-20E6C0DCE4A3}|BaiTap3\\BaiTap3.csproj|d:\\github\\aspweb\\baitap3\\baitap3\\views\\nhom\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{98BA06E7-6928-4959-B672-20E6C0DCE4A3}|BaiTap3\\BaiTap3.csproj|solutionrelative:baitap3\\views\\nhom\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -18,33 +18,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3db98ce8-14f0-4b05-9b6a-b9dbe8fa94ab}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\bnguy\\Downloads\\ASPWeb\\BaiTap3\\BaiTap3\\Views\\Nhom\\Index.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\ASPweb\\BaiTap3\\BaiTap3\\Views\\Nhom\\Index.cshtml",
               "RelativeDocumentMoniker": "BaiTap3\\Views\\Nhom\\Index.cshtml",
-              "ToolTip": "C:\\Users\\bnguy\\Downloads\\ASPWeb\\BaiTap3\\BaiTap3\\Views\\Nhom\\Index.cshtml",
+              "ToolTip": "D:\\GitHub\\ASPweb\\BaiTap3\\BaiTap3\\Views\\Nhom\\Index.cshtml",
               "RelativeToolTip": "BaiTap3\\Views\\Nhom\\Index.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-31T08:09:33.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-31T08:09:33.594Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\bnguy\\Downloads\\ASPWeb\\BaiTap3\\BaiTap3\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\ASPweb\\BaiTap3\\BaiTap3\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "BaiTap3\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\bnguy\\Downloads\\ASPWeb\\BaiTap3\\BaiTap3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\GitHub\\ASPweb\\BaiTap3\\BaiTap3\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "BaiTap3\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-31T08:08:43.39Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1642,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
             }
           ]
         }

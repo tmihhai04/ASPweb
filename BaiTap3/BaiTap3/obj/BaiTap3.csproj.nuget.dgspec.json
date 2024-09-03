@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bnguy\\Downloads\\ASPWeb\\BaiTap3\\BaiTap3\\BaiTap3.csproj": {}
+    "D:\\GitHub\\ASPweb\\BaiTap3\\BaiTap3\\BaiTap3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bnguy\\Downloads\\ASPWeb\\BaiTap3\\BaiTap3\\BaiTap3.csproj": {
+    "D:\\GitHub\\ASPweb\\BaiTap3\\BaiTap3\\BaiTap3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bnguy\\Downloads\\ASPWeb\\BaiTap3\\BaiTap3\\BaiTap3.csproj",
+        "projectUniqueName": "D:\\GitHub\\ASPweb\\BaiTap3\\BaiTap3\\BaiTap3.csproj",
         "projectName": "BaiTap3",
-        "projectPath": "C:\\Users\\bnguy\\Downloads\\ASPWeb\\BaiTap3\\BaiTap3\\BaiTap3.csproj",
-        "packagesPath": "C:\\Users\\bnguy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bnguy\\Downloads\\ASPWeb\\BaiTap3\\BaiTap3\\obj\\",
+        "projectPath": "D:\\GitHub\\ASPweb\\BaiTap3\\BaiTap3\\BaiTap3.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\ASPweb\\BaiTap3\\BaiTap3\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\bnguy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

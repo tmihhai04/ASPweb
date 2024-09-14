@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XVFU0KXb6Urra+b0/N1EbjSKp1u8lb6cWwEr8as6NXQ=",
+  "Hash": "SkGtvAIOp+GpXfz1LFt/gzMFnhbwWXtnBwBaaPLDrdg=",
   "Source": "BaiTapKiemTra01",
   "BasePath": "_content/BaiTapKiemTra01",
   "Mode": "Default",
@@ -891,6 +891,25 @@
       "OriginalItemSpec": "wwwroot\\images\\about-img.jpg"
     },
     {
+      "Identity": "C:\\Users\\ADMIN\\Downloads\\BaiTapKiemTra01\\wwwroot\\images\\Anhbailam.png",
+      "SourceId": "BaiTapKiemTra01",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Downloads\\BaiTapKiemTra01\\wwwroot\\",
+      "BasePath": "_content/BaiTapKiemTra01",
+      "RelativePath": "images/Anhbailam.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Anhbailam.png"
+    },
+    {
       "Identity": "C:\\Users\\ADMIN\\Downloads\\BaiTapKiemTra01\\wwwroot\\images\\banner2.png",
       "SourceId": "BaiTapKiemTra01",
       "SourceType": "Discovered",
@@ -908,6 +927,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\banner2.png"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\Downloads\\BaiTapKiemTra01\\wwwroot\\images\\dell_xps_13.jpg",
+      "SourceId": "BaiTapKiemTra01",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Downloads\\BaiTapKiemTra01\\wwwroot\\",
+      "BasePath": "_content/BaiTapKiemTra01",
+      "RelativePath": "images/dell_xps_13.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\dell_xps_13.jpg"
     },
     {
       "Identity": "C:\\Users\\ADMIN\\Downloads\\BaiTapKiemTra01\\wwwroot\\images\\dream_img.png",

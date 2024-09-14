@@ -173,6 +173,10 @@
       "PackagePath": "staticwebassets\\icon\\www.svg"
     },
     {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\BaiTapKiemTra01\\wwwroot\\images\\Anhbailam.png",
+      "PackagePath": "staticwebassets\\images\\Anhbailam.png"
+    },
+    {
       "Id": "C:\\Users\\ADMIN\\Downloads\\BaiTapKiemTra01\\wwwroot\\images\\about-img.jpg",
       "PackagePath": "staticwebassets\\images\\about-img.jpg"
     },
@@ -183,6 +187,10 @@
     {
       "Id": "C:\\Users\\ADMIN\\Downloads\\BaiTapKiemTra01\\wwwroot\\images\\banner2.png",
       "PackagePath": "staticwebassets\\images\\banner2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\BaiTapKiemTra01\\wwwroot\\images\\dell_xps_13.jpg",
+      "PackagePath": "staticwebassets\\images\\dell_xps_13.jpg"
     },
     {
       "Id": "C:\\Users\\ADMIN\\Downloads\\BaiTapKiemTra01\\wwwroot\\images\\dream_img.png",

@@ -1,0 +1,34 @@
+﻿<div class="container">
+    <form asp-action="Search" method="get">
+        <input type="text" name="searchString" placeholder="Nhập nhà cung cấp cần tìm ..."
+               value="@ViewBag.SearchString" />
+        <input type="submit" value="Tìm kiếm" />
+    </form>
+    <table class="table"
+        <thead>
+            <tr>
+                <th>Tên nhà cung cấp</th>
+                <th>Địa chỉ</th>
+                <th>Số điện thoại</th>
+                <th>Email</th>
+                <th>Chức năng</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in ViewBag.Supplier)
+            {
+                    <tr>
+                        <td width="30%"> @item.SupplierName</td>
+                        <td width="30%"> @item.Address</td>
+                        <td width="30%"> @item.PhoneNumber</td>
+                        <td width="30%"> @item.Email</td>
+                        <td width="40%"><a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                                        <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a> </td>
+                    </tr>
+            }
+        </tbody>
+    </table>
+
+    <a asp-controller="Supplier" asp-action="Create" class="btn btn-primary">Thêm mới </a>
+</div>

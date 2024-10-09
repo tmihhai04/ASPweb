@@ -1,0 +1,15 @@
+﻿@model Supplier
+
+<div class="container">
+    SupplierId:<b>@Model.SupplierId</b> <br/> 
+    Tên nhà cung cấp:<b>@Model.SupplierName</b> <br />
+    Địa chỉ:<b>@Model.Address</b> <br />
+    Số điện thoại:<b>@Model.PhoneNumber</b> <br />
+    Email:<b>@Model.Email</b> <br />
+</div>
+
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
